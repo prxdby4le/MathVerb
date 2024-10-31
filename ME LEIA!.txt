@@ -1,0 +1,8 @@
+OIIIII
+muito obrigado por ter baixado :)
+cria um atalho do MathVerb pra sua área de trabalho 
+
+É NECESSÁRIO QUE VOCÊ INSTALE O JDK 23 --> https://www.oracle.com/br/java/technologies/downloads/#jdk23-windows
+
+
+é nois!
